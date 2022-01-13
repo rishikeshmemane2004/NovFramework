@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-12T08:19:31Z" name="Rest API Test Suite" finished-at="2022-01-12T08:19:37Z" duration-ms="6085">
+    <groups>
+    </groups>
+    <test started-at="2022-01-12T08:19:31Z" name="Rest API regression Test" finished-at="2022-01-12T08:19:37Z" duration-ms="6085">
+      <class name="com.qa.api.gorest.tests.CreateUserTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:32Z" name="setUp" finished-at="2022-01-12T08:19:32Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUserAPIPOSTTest(java.lang.reflect.Method, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:32Z" name="createUserAPIPOSTTest" data-provider="getUserData" finished-at="2022-01-12T08:19:36Z" duration-ms="3368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ViratKohli@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="setUp" finished-at="2022-01-12T08:19:36Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUserAPIPOSTTest(java.lang.reflect.Method, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="createUserAPIPOSTTest" data-provider="getUserData" finished-at="2022-01-12T08:19:36Z" duration-ms="267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[V V Laxshman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[vvsLxshman@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="setUp" finished-at="2022-01-12T08:19:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUserAPIPOSTTest(java.lang.reflect.Method, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="createUserAPIPOSTTest" data-provider="getUserData" finished-at="2022-01-12T08:19:36Z" duration-ms="270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saurav Gaguly]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SauravGanguly@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="setUp" finished-at="2022-01-12T08:19:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUserAPIPOSTTest(java.lang.reflect.Method, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="createUserAPIPOSTTest" data-provider="getUserData" finished-at="2022-01-12T08:19:36Z" duration-ms="243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smriti M]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SmiritiM@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="setUp" finished-at="2022-01-12T08:19:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method, java.util.Map)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:36Z" name="createUserAPIPOSTUsingHashMapTest" data-provider="getUserDataUsingHashMap" finished-at="2022-01-12T08:19:37Z" duration-ms="236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method,java.util.Map)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{name=Virat Kohli, gender=male, email=ViratKohli@gmail.com, status=active}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTUsingHashMapTest -->
+        <test-method signature="createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method, java.util.Map)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:37Z" name="createUserAPIPOSTUsingHashMapTest" data-provider="getUserDataUsingHashMap" finished-at="2022-01-12T08:19:37Z" duration-ms="241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method,java.util.Map)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{name=V V Laxshman, gender=male, email=vvsLxshman@gmail.com, status=inactive}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTUsingHashMapTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:37Z" name="setUp" finished-at="2022-01-12T08:19:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:37Z" name="setUp" finished-at="2022-01-12T08:19:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method, java.util.Map)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:37Z" name="createUserAPIPOSTUsingHashMapTest" data-provider="getUserDataUsingHashMap" finished-at="2022-01-12T08:19:37Z" duration-ms="249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method,java.util.Map)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{name=Saurav Gaguly, gender=male, email=SauravGanguly@gmail.com, status=inactive}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTUsingHashMapTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:37Z" name="setUp" finished-at="2022-01-12T08:19:37Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method, java.util.Map)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@2e570ded]" started-at="2022-01-12T08:19:37Z" name="createUserAPIPOSTUsingHashMapTest" data-provider="getUserDataUsingHashMap" finished-at="2022-01-12T08:19:37Z" duration-ms="260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.api.gorest.tests.CreateUserTest.createUserAPIPOSTUsingHashMapTest(java.lang.reflect.Method,java.util.Map)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{name=Smriti M, gender=female, email=SmiritiM@gmail.com, status=active}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserAPIPOSTUsingHashMapTest -->
+      </class> <!-- com.qa.api.gorest.tests.CreateUserTest -->
+    </test> <!-- Rest API regression Test -->
+  </suite> <!-- Rest API Test Suite -->
+</testng-results>

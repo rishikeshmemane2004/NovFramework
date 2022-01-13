@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="38.933" tests="14" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\CyberSuccessJavaSeleniumBatch5Aug21\maven\apache-maven-3.8.4\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="maven.conf" value="E:\CyberSuccessJavaSeleniumBatch5Aug21\maven\apache-maven-3.8.4/conf"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher compiler:compile compiler:testCompile surefire:test -DtesultsTarget=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6ImI1YTQwZjBmLWNkMTgtNDI0NS1iNWRlLTkwODFmNDlkZjk5MC0xNjQyMDAzNzUzMzg1IiwiZXhwIjo0MTAyNDQ0ODAwMDAwLCJ2ZXIiOiIwIiwic2VzIjoiMWU5ODBlMDEtYTgzMS00YjY2LWFmMTItYzg3NjkxODBlNGJiIiwidHlwZSI6InQifQ.rpN-11NoCvZD5LdgtU644wH-PgsglJw5n7ZIRNKgx0E"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="E:\CyberSuccessJavaSeleniumBatch5Aug21\maven\apache-maven-3.8.4"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\lenovo"/>
+    <property name="user.language" value="en"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
+    <property name="user.name" value="lenovo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="tesultsTarget" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6ImI1YTQwZjBmLWNkMTgtNDI0NS1iNWRlLTkwODFmNDlkZjk5MC0xNjQyMDAzNzUzMzg1IiwiZXhwIjo0MTAyNDQ0ODAwMDAwLCJ2ZXIiOiIwIiwic2VzIjoiMWU5ODBlMDEtYTgzMS00YjY2LWFmMTItYzg3NjkxODBlNGJiIiwidHlwZSI6InQifQ.rpN-11NoCvZD5LdgtU644wH-PgsglJw5n7ZIRNKgx0E"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.1"/>
+    <property name="user.dir" value="E:\NAL\Nov2019RestAssuredFramework"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\NAL\Nov2019RestAssuredFramework"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-17.0.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;E:\CybersuccessSeleniumBatch05Aug21\JarFiles\AllureJarBinaries\allure-2.15.0\bin;E:\CyberSuccessJavaSeleniumBatch5Aug21\maven\apache-maven-3.8.4\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_301\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\lenovo\AppData\Local\Box\Box Edit\;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.1+12-LTS-39"/>
+    <property name="classworlds.conf" value="E:\CyberSuccessJavaSeleniumBatch5Aug21\maven\apache-maven-3.8.4\bin\m2.conf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="library.jansi.path" value="E:\CyberSuccessJavaSeleniumBatch5Aug21\maven\apache-maven-3.8.4\lib\jansi-native"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="createUserAPIPOSTTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="5.911"/>
+  <testcase name="createUserAPIPOSTTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="0.465"/>
+  <testcase name="createUserAPIPOSTTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="1.081"/>
+  <testcase name="createUserAPIPOSTTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="0.477"/>
+  <testcase name="getAllUserListAPITest" classname="com.qa.api.gorest.tests.GetUserTest" time="0.614"/>
+  <testcase name="getUserListWithQueryParamsAPITest" classname="com.qa.api.gorest.tests.GetUserTest" time="0.123"/>
+  <testcase name="createUserAPIPOSTUsingHashMapTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="0.407"/>
+  <testcase name="createUserAPIPOSTUsingHashMapTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="0.544"/>
+  <testcase name="createUserAPIPOSTUsingHashMapTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="0.334"/>
+  <testcase name="createUserAPIPOSTUsingHashMapTest" classname="com.qa.api.gorest.tests.CreateUserTest" time="0.467"/>
+  <testcase name="updateUser_createAndThenDeleteAPITest" classname="com.qa.api.gorest.tests.UpdateUserTest" time="0.421"/>
+  <testcase name="getAccountBlockStatusTest" classname="com.qa.api.gorest.tests.GetImgurAPITest" time="4.946"/>
+  <testcase name="getAccountImagesTest" classname="com.qa.api.gorest.tests.GetImgurAPITest" time="3.417"/>
+  <testcase name="uploadImagePostAPITest" classname="com.qa.api.gorest.tests.GetImgurAPITest" time="3.446"/>
+</testsuite>
